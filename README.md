@@ -6,5 +6,3 @@
   Por fim, os 200 milhões de transações poderiam ser sumarizadas/calculadas diariamente ou através de um treshhold  ( tamanho dos arquivos, tempo, quantidade de arquivos). No fim do mês bastaria ler os dados sumarizados/calculados neste período e contabilizar o valor total, evitando realizar o cálculo de aproximadamente 6 bilhões de transações mensais de uma única vez.  
 
  
-
-Total de palavras: 201 
